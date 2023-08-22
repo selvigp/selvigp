@@ -58,7 +58,7 @@ We hold complimentary CNCF technical workshops, technical trainings, and technic
 
 
 📧 hasinianu1217@gmail.com <br />
-📝 I often write blogs in the area of cloud/cloud-native  [https://medium.com/@selvigp](https://medium.com/@selvigp)] <br />
+📝 I often write blogs in the area of cloud/cloud-native [https://medium.com/@selvigp] <br />
 📝 I often post/share content on [https://www.linkedin.com/in/selvigp/] <br />
 
 # I am Leader and Co-organizer at Cloud Native Europe & UK with around 1000 Followers
