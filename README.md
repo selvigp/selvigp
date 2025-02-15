@@ -29,12 +29,6 @@ Experience within Cloud services, DevOps, IP network and communication system. H
 - [How to deploy and configure Azure firewall](https://medium.com/cloudnloud/how-to-deploy-and-configure-azure-firewall-b932c2d5632c)
 - [How to implement Azure VM backup with Recovery Service Vault](https://medium.com/cloudnloud/how-to-implement-azure-vm-backup-with-recovery-service-vault-d11471fda078)
 
-### ROLE 2: 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 / 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿 / **CNCF** 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 @**Cloud Native Europe & UK**
-
-<P>
-In addition to the **Cloud Native Europe & UK** Community Core team, I am a member of the Leading CNCF team.
-In addition to participating in online meetings, I organize tech seminars and in-person CNCF events.
-We hold complimentary CNCF technical workshops, technical trainings, and technical talks on a range of IT technologies and open source tools with the assistance of Cloud Native Europe & UK.
 
 ## Let's Connect 🤝🎗️! 
 <a href="https://github.com/selvigp/" target="_blank">
