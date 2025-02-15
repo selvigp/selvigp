@@ -5,36 +5,24 @@ Experience within Cloud services, DevOps, IP network and communication system. H
 
 ## Skills
 • **Infrastructure Management:** Docker, Kubernetes, Ansible, Terraform <br />
-• **CI/CD:** Jenkins, GitHub Actions, Azure DevOps <br />
+• **CI/CD:** Jenkins, Gitlab, GitHub Actions, Azure DevOps <br />
 • **Scripting:** Bash, Powershell, JSON, YAML, Python <br />
-• **OS:** Windows Server, VMWARE, Linux <br />
+• **OS:** Windows Server, Linux <br />
 • **Cloud:** AWS, Azure, GCP <br />
 • **Security:** IAM, SSL/TLS, Firewall <br /> 
 • **Networking:** IPsec, VPN, CNI, Ingress, Istio ServiceMesh <br /> 
 
 ## Certifications
 - Certified Kubernetes Administrator
+- Certified Kubernetes Security Specialist
+- Microsoft Certified Azure Solution Architect.
 - Hashicorp Certified Terraform Associate
 - Microsoft Certified Azure Administrator Associate
 - Google Cloud Certified Associate Cloud Engineer
 - Microsoft Certified Azure DevOps Solutions
 - Microsoft Certified Identity & Access Administrator
 
-## Meetup-Groups
-In the prestigious Cloudnloud Tech Community, I am the team leader for CNCF and the co-founder of the meet-up groups listed below.
-
-- [Cloud Native Europe & UK](https://www.meetup.com/cloud-native-europe-uk/)
-- [Cloudnloud Tech Community](https://www.meetup.com/cloudnloud/)
-- [Cloud DevOps SRE Europe & UK ](https://www.meetup.com/cloud-devops-sre-europe-uk/)
-- [Data AI ML Europe & UK](https://www.meetup.com/data-ai-ml-europe-uk/)
-- [Platform Engineers Stockholm](https://www.meetup.com/platform-engineers-stockholm/)
-
-## Volunteering
-### ROLE 1: **CNCF** Team Leader @CloudnLoud Tech Community
-
-<P>
-I work on CNCF landscape tool POCs and research the tools as a CNCF Community Leader with the CloudnLoud Tech Community. I have been contributing back to the community by producing CNCF posts and blogs, taking part in technical CNCF meetups, clearing up any confusion regarding CNCF and the services, and clearly educating CNCF. We are involved for the noble reason of saving millions of cancer-stricken youngsters.
-  
+ 
 #### Blogs
 - [Istio ServiceMesh](https://medium.com/cloudnloud/istio-service-mesh-79a0e13c3c73)
 - [Monitoring GKE Cluster with Managed Service for Prometheus](https://medium.com/cloudnloud/monitoring-gke-cluster-with-managed-service-for-prometheus-3ecffd61a7c6)
